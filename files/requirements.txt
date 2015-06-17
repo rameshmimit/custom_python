@@ -1,0 +1,20 @@
+beautifulsoup4==4.3.2
+cffi==0.8.6
+cryptography==0.6.1
+lxml==3.4.1
+mock==1.0.1
+py==1.4.26
+pycparser==2.10
+pytest==2.6.4
+requests==2.4.3
+selenium==2.45.0
+six==1.8.0
+coverage==3.7.1
+pybuilder==0.10.36
+jsonpickle == 0.8.0
+boto==2.34.0
+Pillow==2.7.0
+awscli==1.7.0
+pyinotify==0.9.5
+psutil==2.2.1
+cssselect==0.9.1

@@ -1,0 +1,14 @@
+{
+  "name": "ramesh-python",
+  "version": "0.1.0",
+  "author": "Ramesh kumar",
+  "summary": "It will install custom python rpms and pip module",
+  "license": "Apache-2.0",
+  "source": "http://bitbucket.com/rameshmimit/pyton.git",
+  "project_page": "http://bitbucket.com/rameshmimit/pyton/README.md",
+  "issues_url": "http://bitbucket.com/rameshmimit/pyton/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
